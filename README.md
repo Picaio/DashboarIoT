@@ -18,13 +18,13 @@ Los datos se almacenan en una **base de datos MySQL** y se visualizan en un **da
 
 ## 📁 Estructura del repositorio
 
-├── HTTPS_ESP32_Cloud_Weather_Station/     📦 Código del ESP32 (Arduino IDE)
-├── SensorData_Table.sql                   ✂️ Script SQL para crear la tabla
-├── esp-database.php                       🧠 Funciones de base de datos
-├── esp-post-data.php                      📬 Recibe los datos del ESP32
-├── esp-ajax-data.php                      🔁 Endpoint JSON para gráficas
-├── esp-weather-station.php                🖥️ Dashboard principal
-├── esp-style.css                          🎨 Estilo visual del dashboard
+-├── HTTPS_ESP32_Cloud_Weather_Station/     📦 Código del ESP32 (Arduino IDE)
+-├── SensorData_Table.sql                   ✂️ Script SQL para crear la tabla
+-├── esp-database.php                       🧠 Funciones de base de datos
+-├── esp-post-data.php                      📬 Recibe los datos del ESP32
+-├── esp-ajax-data.php                      🔁 Endpoint JSON para gráficas
+-├── esp-weather-station.php                🖥️ Dashboard principal
+-├── esp-style.css                          🎨 Estilo visual del dashboard
 
 ---
 
